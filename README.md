@@ -2,7 +2,7 @@
 
 Welcome to the AWS WordPress Website Hosting project! 🚀 In this project, we have showcased a guide of setting up a highly available and scalable WordPress website on Amazon Web Services (AWS). Below, you'll find detailed instructions for each part of the project.
 
-## _Project Members_
+## **Project Members**
 
 - [Subhajit Panda](https://github.com/SubhajitPanda26)
 - [Avidhan Purkait](https://github.com/AvidhanPurkait)
